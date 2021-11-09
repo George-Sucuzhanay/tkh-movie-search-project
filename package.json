@@ -1,0 +1,18 @@
+{
+  "name": "tkh-movie-search-project",
+  "packageManager": "yarn@3.1.0",
+  "devDependencies": {
+    "parcel": "^2.0.1",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  },
+  "browsersList":[
+    "last 1 Chrome version"
+  ],
+  "scripts": {
+    "start" : "parcel index.html"
+  }
+}
